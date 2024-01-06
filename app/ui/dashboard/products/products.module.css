@@ -20,6 +20,12 @@
   cursor: pointer;
 }
 
+.noProduct {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
 .table {
   width: 100%;
 }
